@@ -1,14 +1,17 @@
-# Project Title
-Replace the Project Title
+# Bikeshare Project
 
 ## Description
-Describe what your project is about and what it does
+The Python-script processes data from CSV files and provides various statistical insights into bikesharing usage.
 
 ## Files used
-Include the files used
+* bikeshare_starter.py
+* Data source file (see Prerequisites)
+
+## Prerequisites
+To run this script, you must provide the source CSV files (Chicago, New York City, Washington). Place the file in the same folder as the Python script.
 
 ## Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Please visit [Udacity](https://www.udacity.com/) for awesome content.
 
 ## Date created
-Include the date you created this project and README file.
+Project created in April 2026
