@@ -1,3 +1,12 @@
+"""
+Analyzes bikeshare data from CSV files.
+
+This script provides statistical insights for different cities.
+
+Author: Holger
+Date: April 2026
+"""
+
 import time
 import pandas as pd
 import numpy as np
